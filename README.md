@@ -1,2 +1,2 @@
-# helloworldforyoctobuild
-Example hello world application git repo to be used in a new yocto recipe
+# helloworldcomponent
+Example hello world application used in our own layer
