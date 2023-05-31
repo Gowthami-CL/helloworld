@@ -1,9 +1,0 @@
-#include <stdio.h>
-
-#include "helloworld.h"
-
-int main(int argc, char *argv[])
-{
-  printf("Adding patch to heelo world\n");
-  return 0;
-}
